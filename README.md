@@ -42,7 +42,7 @@ Follow these steps to set up the environment, run the code, and confirm it works
      ```  
    - Install dependencies:  
      ```bash
-     pip install  -r requirements.txt
+     pip install -r requirements.txt
      ```
 
 2. **Run the code**  
