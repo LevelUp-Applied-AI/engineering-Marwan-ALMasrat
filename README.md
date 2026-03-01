@@ -57,4 +57,3 @@ Follow these steps to set up the environment, run the code, and confirm it works
      ```
      Application started successfully!
      ```  
-   - Or verify the intended behavior occurs, such as processing files, generating output, or displaying results correctly.
